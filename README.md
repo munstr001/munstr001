@@ -46,7 +46,7 @@
 | Воскресенье | ☕ Отдых |
 
 
----
+----
 
 ## ⚡ Tech Stack  
 
@@ -56,6 +56,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
 
----
+----
 
 📬 Связаться со мной: [@munstr001](https://t.me/munstr001) | ✉️ derdad506@gmail.com  
